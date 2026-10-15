@@ -1,7 +1,7 @@
 # Plaza
 
 <p align="center">
-  <img src="assets/plaza-emblem.svg" alt="Plaza emblem" width="92" /><br />
+  <img src="assets/plaza-logo-full.svg" alt="Plaza logo" width="220" /><br />
   <img src="assets/plaza-wordmark.png" alt="Plaza" width="280" />
 </p>
 
