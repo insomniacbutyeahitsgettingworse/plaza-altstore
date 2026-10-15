@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 759 724" width="759" height="724" role="img" aria-label="Plaza full three phone logo">
+<title>Plaza full three phone logo</title>
+
+<g id="side-left">
+  <g transform="rotate(-14 170 380)">
+    <rect x="66" y="216" width="214" height="330" rx="36" fill="#6730BF"/>
+    <rect x="98" y="247" width="150" height="268" rx="18" fill="#fff"/>
+    <rect x="154" y="345" width="28" height="69" rx="14" fill="#6730BF" transform="rotate(-29 168 380)"/>
+    <rect x="121" y="401" width="29" height="70" rx="14.5" fill="#6730BF" transform="rotate(-50 135.5 436)"/>
+  </g>
+</g><g id="side-right">
+ <g transform="translate(768 0) scale(-1 1)">
+  <g transform="rotate(-14 170 380)">
+    <rect x="66" y="216" width="214" height="330" rx="36" fill="#6730BF"/>
+    <rect x="98" y="247" width="150" height="268" rx="18" fill="#fff"/>
+    <rect x="154" y="345" width="28" height="69" rx="14" fill="#6730BF" transform="rotate(-29 168 380)"/>
+    <rect x="121" y="401" width="29" height="70" rx="14.5" fill="#6730BF" transform="rotate(-50 135.5 436)"/>
+  </g>
+ </g>
+</g><g id="phone-front">
+  <rect x="220" y="135" width="332" height="448" rx="55" fill="#6730BF"/>
+  <rect x="255" y="170" width="263" height="379" rx="22" fill="white"/>
+  <g id="figure">
+    <path d="M278 523 C278 470 319 430 371 428 L399 428 C453 434 492 471 492 522 Q492 535 479 535 H291 Q278 535 278 523Z" fill="#6730BF"/>
+    <circle cx="384.5" cy="354" r="108" fill="#6730BF"/>
+    <g id="eyes-normal" fill="white">
+      <rect x="331" y="314" width="24" height="42" rx="12"/>
+      <rect x="412" y="314" width="24" height="42" rx="12"/>
+    </g>
+    <g id="eyes-happy" stroke="white" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0">
+      <path d="M330 343 Q343 318 357 343"/>
+      <path d="M411 343 Q425 318 438 343"/>
+    </g>
+    <path id="mouth" d="M355 377 H413 Q425 377 425 384 C423 407 406 424 384 424 C361 424 344 407 343 384 Q343 377 355 377Z" fill="white"/>
+  </g>
+</g>
+</svg>
