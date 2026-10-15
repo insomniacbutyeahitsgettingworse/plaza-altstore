@@ -16,4 +16,4 @@ plaza public ios testing download.
 
 [add plaza to altstore](https://raw.githubusercontent.com/insomniacbutyeahitsgettingworse/plaza-altstore/main/altstore-source-ios.json)
 
-android release coming soon.
+android release: https://github.com/insomniacbutyeahitsgettingworse/plaza-altstore/releases/tag/v1.0.0-android-build3
