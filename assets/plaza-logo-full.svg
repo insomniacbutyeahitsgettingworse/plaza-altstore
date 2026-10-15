@@ -1,6 +1,30 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 759 724" width="759" height="724" role="img" aria-label="Plaza full three phone logo">
 <title>Plaza full three phone logo</title>
 
+<style>
+  #side-left, #side-right, #phone-front {
+    transform-box: fill-box;
+    transform-origin: center;
+    animation: plaza-bob 2.8s ease-in-out infinite;
+  }
+  #side-left { animation-delay: -0.08s; }
+  #side-right { animation-delay: -0.16s; }
+  #eye-open-right { animation: plaza-eye-open 2.8s ease-in-out infinite; }
+  #eye-wink-right { animation: plaza-eye-wink 2.8s ease-in-out infinite; }
+  @keyframes plaza-bob {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+  }
+  @keyframes plaza-eye-open {
+    0%, 66%, 100% { opacity: 1; }
+    70%, 76% { opacity: 0; }
+  }
+  @keyframes plaza-eye-wink {
+    0%, 66%, 100% { opacity: 0; }
+    70%, 76% { opacity: 1; }
+  }
+</style>
+
 <g id="side-left">
   <g transform="rotate(-14 170 380)">
     <rect x="66" y="216" width="214" height="330" rx="36" fill="#6730BF"/>
@@ -25,8 +49,9 @@
     <circle cx="384.5" cy="354" r="108" fill="#6730BF"/>
     <g id="eyes-normal" fill="white">
       <rect x="331" y="314" width="24" height="42" rx="12"/>
-      <rect x="412" y="314" width="24" height="42" rx="12"/>
+      <rect id="eye-open-right" x="412" y="314" width="24" height="42" rx="12"/>
     </g>
+    <path id="eye-wink-right" d="M411 343 Q425 318 438 343" stroke="white" stroke-width="10" fill="none" stroke-linecap="round" opacity="0"/>
     <g id="eyes-happy" stroke="white" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0">
       <path d="M330 343 Q343 318 357 343"/>
       <path d="M411 343 Q425 318 438 343"/>
