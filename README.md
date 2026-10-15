@@ -23,5 +23,3 @@ plaza public testing downloads for ios and android.
 3. open plaza and make your account.
 
 [download the android apk](https://github.com/insomniacbutyeahitsgettingworse/plaza-altstore/releases/latest)
-
-new accounts need approval before they can get in.
