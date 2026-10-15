@@ -1,0 +1,40 @@
+{
+  "subtitle": "ios builds of plaza for testing.",
+  "tintColor": "#6730BF",
+  "news": [],
+  "description": "plaza is a social app for sharing posts, drawings, and messages.",
+  "apps": [
+    {
+      "category": "social",
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSFaceIDUsageDescription": "allow plaza to access your face id biometric data.",
+          "NSPhotoLibraryUsageDescription": "allow plaza to choose a profile picture from your photo library.",
+          "NSCameraUsageDescription": "allow plaza to access your camera",
+          "NSMicrophoneUsageDescription": "allow plaza to access your microphone"
+        }
+      },
+      "versions": [
+        {
+          "minOSVersion": "16.4",
+          "version": "1.0.0",
+          "buildVersion": "3",
+          "downloadURL": "https://github.com/insomniacbutyeahitsgettingworse/plaza-altstore/releases/download/v1.0.0-ios-build3/plaza.ipa",
+          "size": 34284999,
+          "date": "2026-10-15",
+          "localizedDescription": "ios build 3."
+        }
+      ],
+      "name": "plaza",
+      "localizedDescription": "plaza for ios testing. install with altstore classic.",
+      "iconURL": "https://raw.githubusercontent.com/insomniacbutyeahitsgettingworse/plaza-altstore/main/icon.png",
+      "tintColor": "#6730BF",
+      "developerName": "plaza team",
+      "subtitle": "a little plaza to share what you make.",
+      "bundleIdentifier": "com.plaza.social"
+    }
+  ],
+  "iconURL": "https://raw.githubusercontent.com/insomniacbutyeahitsgettingworse/plaza-altstore/main/icon.png",
+  "name": "plaza ios test builds"
+}
