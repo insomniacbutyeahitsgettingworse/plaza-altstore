@@ -1,7 +1,7 @@
 # Plaza
 
 <p align="center">
-  <img src="assets/plaza-logo.svg" alt="Plaza" width="280" />
+  <img src="assets/plaza-wordmark.png" alt="Plaza" width="280" />
 </p>
 
 Plaza public testing downloads for iOS and Android.
