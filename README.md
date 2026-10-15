@@ -5,7 +5,7 @@
   <img src="assets/plaza-wordmark.png" alt="plaza" width="280" />
 </p>
 
-plaza public testing downloads for ios and android.
+miiverse esque social media platform for mobile devices. plaza public testing downloads for ios and android.
 
 ## ios
 
